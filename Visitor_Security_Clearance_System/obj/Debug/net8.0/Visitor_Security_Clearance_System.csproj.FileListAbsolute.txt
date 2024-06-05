@@ -1,0 +1,76 @@
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\msvcp140.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\appsettings.json
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Visitor_Security_Clearance_System.exe
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Visitor_Security_Clearance_System.deps.json
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Visitor_Security_Clearance_System.runtimeconfig.json
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Visitor_Security_Clearance_System.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Visitor_Security_Clearance_System.pdb
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.csproj.AssemblyReference.cache
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.AssemblyInfoInputs.cache
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.AssemblyInfo.cs
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.csproj.CoreCompileInputs.cache
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\staticwebassets\msbuild.Visitor_Security_Clearance_System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\staticwebassets\msbuild.build.Visitor_Security_Clearance_System.props
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Visitor_Security_Clearance_System.props
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Visitor_Security_Clearance_System.props
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\scopedcss\bundle\Visitor_Security_Clearance_System.styles.css
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_.B6B1318F.Up2Date
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\refint\Visitor_Security_Clearance_System.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.pdb
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.genruntimeconfig.cache
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\obj\Debug\net8.0\ref\Visitor_Security_Clearance_System.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\itextsharp.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\SendGrid.dll
+C:\Users\shrut\source\repos\Centralogic_Task\Visitor_Security_Clearance_System\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.dll
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\refint\Visitor_Security_Clearance_System.dll
+C:\Users\hp\OneDrive\Desktop\Assignment - 04\Visitor_Security_Clearance_System\obj\Debug\net8.0\Visitor_Security_Clearance_System.pdb

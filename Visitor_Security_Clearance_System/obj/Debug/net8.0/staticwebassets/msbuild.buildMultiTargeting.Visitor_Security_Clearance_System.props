@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Visitor_Security_Clearance_System.props" />
+</Project>
